@@ -12,6 +12,4 @@ public class Food {
 	public void serverFood(){
 		System.out.println("I'm serving"+name);
 	}
-	
-
 }

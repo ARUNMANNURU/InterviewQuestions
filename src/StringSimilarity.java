@@ -43,7 +43,7 @@ public class StringSimilarity {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String strA = "ababaa";
+		String strA = "abc";
 		stringSimilarity(strA);
 	}
 
